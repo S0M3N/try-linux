@@ -12,8 +12,8 @@ try -dp <path to debian package> or try dpkg <path to debian package>   -   for 
 # Installation
 
 ```bash
-git clone 
-cd try
+git clone https://github.com/S0M3N/try-linux
+cd try-linux
 sudo cp try.sh /usr/bin/try
 ```
 
